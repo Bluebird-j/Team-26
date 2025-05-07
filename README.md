@@ -80,7 +80,8 @@ Quality Assurance Tester: Nicholas Stahl (1nvar1)
 
 # About Our Software
 
-Describe a little about what the project is about here.
+A web app where people can post what they get at certain foods places (fast food, restaurants, dessert places, etc.), and others can look at post related to the place they’re at or looking to go, to use as a suggestions.
+
 ## Platforms Tested on
 - Windows
 # Important Links
